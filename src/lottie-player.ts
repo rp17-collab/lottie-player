@@ -604,3 +604,4 @@ export class LottiePlayer extends LitElement {
       </div>`
   }
 }
+element.main("style", "border-radius: 8px;");
